@@ -2,12 +2,12 @@
   "items": [
     {
       "title": "'Hello World' slash Disclaimer",
-      "id": "hello_world_blog.html"
+      "id": "hello_world_blog"
 
     },   
     {
       "title": "RDR2 Notes",
-      "id": "hello_world_blog.html"
+      "id": "hello_world_blog"
     }
   ]
 }
