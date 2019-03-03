@@ -1,21 +1,47 @@
-<p><strong>Red Dead Redemption 2</strong></p>
-<p><em>- Player can choose his own game pace (sort of).</em></p>
-<p>&nbsp;Exploring the world, searching for collectibles and hunting can be very meditative process.</p>
-<p>&nbsp;Main quests and some portion of side quests adds to a pace and breaks the meditative loop.</p>
-<p>&nbsp;This is also achieved through the character's interuction with the world: picking up each item one by one; animations for walk, pickup, mounting the horse, unholster weapons and etc are relativelly "slow" when outside the combat. Or rather, it is "fast enough" to put player in that pieaceful mood.<strong>&nbsp;</strong></p>
-<p><em>- Gun mechanics - I'm 50/50 on enjoying it here.</em></p>
-<p>&nbsp;Weirdly enough, shooting feels "fun" when in a "dead eye" mode getting headshots, but it felt dull for me when shooting in any other parts of the body but head. I think it because with headshots you get an instant feedback from minor regdall or animation. Body shoots feels weak, with minor feedback since enemies does not react as "choreographically". I think this is to convey a more realistic feel for the game.</p>
-<p>&nbsp;This actually hit an interesting behaviour for me, where I wasn't invested into shooting, I would avoid that type of gameplay if I'm given a choice, since "running and gunning" is less sutisfuing for me here.&nbsp;</p>
-<p><strong>Gamedesign Note:&nbsp;</strong>if I would want to direct a none-lethal or none-shooting gameplay, make shooting mechanics somewhere in the high-middle(~7 out of 10) range on the "fun" scale.&nbsp;</p>
-<p>&nbsp;I like the variety of weapons and their usage in hunting, where each weapon has its use on different animals. However, against human combat, I didn't find practical use for one or two guns. Maybe it depends on the individuals' playstyle? Or maybe its purpose is to be another detail that adds to the scale of the world.&nbsp; &nbsp; &nbsp;</p>
-<p><em>- A sense of community and ownership (in a way).</em></p>
-<p>&nbsp;The camp with peopple, supposably, contributing to the same cause. Though, it is always the player who contributes the most. <strong>Expanding on this concept would be cool.</strong></p>
-<p><em>- Simple story - but believable characters.</em></p>
-<p>&nbsp;Characters has their own past, their own stories, pattern of behaviour and such. They feel real and that what kept we hooked in to the story. What important here, I think, is that it is doesn't matter if we've seen those characteristics before as long as the bubblehead on the screen has a human behaviour, good or bad, that we can recognize as "human" through their stories, behaviours, dialogs and so on and blah-blah-blah.</p>
-<p><strong>Gamedesign Note:&nbsp;</strong>if I ever would dare to actually write a story that involves Humans in it, I would need to read up on Human psychology a bit more.</p>
-<p>- Collectibles are integrated into the world organically.</p>
-<p>&nbsp;Its been a while since I actually enjoyed collecting those, presumably, useless things. In RDR2, in a search for the sigarate cards or rock cravings and whatnot, you get to explore the world, stumble apon mini side quests or discover some interesting locations you might miss otherwise. Plus, you get a reward for getting it all, whether it is cash, cafting goodies or even a cutscene that adds up to your emotional feedback. It is a very simple concept, yet ridiculasly few games get it.&nbsp;&nbsp;</p>
-<p><strong>Gamedesign Note:</strong>&nbsp;Collectibles should reward players beyond the achievements popup. It Must has a value in the game world: cash, tools, weapons, whatever else.</p>
-<p><em>- Replayability through hidden mission challanges revealed after its completion.</em></p>
-<p>I abolutely hated it. For a person who likes 100% completion, those challanges doesn't add to "enjoyable" replayabilaty. Plus, most of them doesn't add a different experience to the same mission (like using different path or playstyle), so it starts to feel like a "chore" which I have to do now if I want to get that 100%.</p>
-<p>&nbsp;<strong>Gamedesign Note: </strong>Per mission challanges should add to the experience (e.g. differrent route or gameplay style) if I would choose to have them and they should be visible beforehand or easy to predict. Challanges should be fun and not a chore.</p>
+<div>
+    <article class="columns has-text-centered blog-title">
+        <div class="column">
+            <p>Notes: Red Dead Redemption 2</p>
+        </div>
+    </article>
+    <article class="columns is-multiline panel padding-1 no-shadow">
+        <div class="column is-12">
+            <p class="comic-font"><em>Player can choose his own game pace (sort of).</em></p>
+        </div>
+        <p>- Exploring the world, searching for collectibles and hunting can be very meditative process.</p>
+        <p>- Main quests and some portion of side quests adds to a pace and breaks the meditative loop.</p>
+        <p>- This is also achieved through the character&apos;s interaction with the world: picking up each item one by one; animations for walk, pickup, mounting the horse, unholster weapons and etc are relatively &quot;slow&quot; when outside the combat.
+            Or rather, it is &quot;fast enough&quot; to convey the appropriate mood and pace.<strong>&nbsp;</strong></p>
+    </article>
+    <article class="columns is-multiline panel padding-1 no-shadow">
+        <div class="column is-12">
+            <p class="comic-font"><em>Guns and shooting mechanics - I&apos;m 50/50 on enjoying it here.</em></p>
+        </div>
+        <p>- Weirdly enough, shooting feels &quot;fun&quot; when in a &quot;dead eye&quot; mode getting headshots, but it felt dull when shooting in any other parts of the body but head. I think it because with headshots you get an instant feedback from
+            minor regdall or animation. Body shoots feels weak, with minor feedback since enemies does not react as &quot;choreographically&quot;. I think this is to convey a more realistic feel for the game.</p>
+        <p>This actually hit an interesting behavior, where I wasn&apos;t invested into shooting, I would avoid that type of gameplay if I&apos;m given a choice, since &quot;running and gunning&quot; is less satisfying for me here.</p>
+        <p class="panel bg-yellow padding-1 comic-font"
+            style="margin-left: 0rem; margin-right: 0rem;"><strong>Gamedesign Note:&nbsp;</strong>if I would want to direct a none-lethal or none-shooting gameplay, make shooting mechanics somewhere in the high-middle(~7 out of 10) range on the &quot;fun&quot; scale. &quot;Hitman: Absolution(2012)&quot;,
+            for example, has a fun shooting mechanics which baits to go "loud" instead of stealth.</p>
+        <p>- I like the variety of weapons and their usage for hunting sequences,where each weapon has its use on different animals. However, against human combat, I didn&apos;t find practical use for more than one or two guns. Maybe it depends on the individuals&apos;
+            play style? Or maybe its purpose is to be another detail that adds to the scale of the world.</p>
+    </article>
+    <article class="columns is-multiline panel padding-1 no-shadow">
+        <div class="column is-12"></div>
+        <p class="comic-font"><em>A sense of community and ownership.</em></p>
+        <p>- The camp with peopple, supposably, contributing to the same cause.Though, it is always the player who contributes the most.
+            <strong> Expanding on this concept would be cool. </strong></p>
+        <p></p><em>- Simple story - but believable characters.</em></article>
+    <p>Characters has their own past, their own stories, pattern of behavior and such. They feel real and that what kept we hooked in to the story. What important here, I think, is that it is doesn&apos;t matter if we&apos;ve seen those characteristics before
+        as long as the bubblehead on the screen has a human behavior, good or bad, that we can recognize as &quot;human&quot; through their stories, behaviors, dialogs and so on and blah-blah-blah.</p>
+    <p><strong>Gamedesign Note:&nbsp;</strong>if I ever would dare to actually write a story that involves Humans in it, I would need to read up on Human psychology a bit more.</p>
+    <p>- Collectibles are integrated into the world organically.</p>
+    <p>Its been a while since I actually enjoyed collecting those, presumably, useless things. In RDR2, in a search for the sigarate cards or rock cravings and whatnot, you get to explore the world, stumble apon mini side quests or discover some interesting
+        locations you might miss otherwise. Plus, you get a reward for getting it all, whether it is cash, cafting goodies or even a cutscene that adds up to your emotional feedback. It is a very simple concept, yet ridiculasly few games get it.</p>
+    <p><strong>Gamedesign Note:</strong>&nbsp;Collectibles should reward players beyond the achievements popup. It Must has a value in the game world: cash, tools, weapons, whatever else.</p>
+    <p><em>- Replayability through hidden mission challanges revealed after its completion.</em></p>
+    <p>I abolutely hated it. For a person who likes 100% completion, those challanges doesn&apos;t add to &quot;enjoyable&quot; replayabilaty. Plus, most of them doesn&apos;t add a different experience to the same mission (like using different path or playstyle),
+        so it starts to feel like a &quot;chore&quot; which I have to do now if I want to get that 100%.</p>
+    <p><strong>Gamedesign Note:</strong>Per mission challanges should add to the experience (e.g. differrent route or gameplay style) if I would choose to have them and they should be visible beforehand or easy to predict. Challanges should be fun and not
+        a chore.</p>
+</div>
