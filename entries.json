@@ -11,13 +11,12 @@
         "any": {
         },
         "ps4": {
-         "img": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2016/10/red-dead-redemption-2-caratula-provisional.jpg?itok=m4EloRom",
          "url": "https://amzn.to/2O6Ewjv"
         },
         "xbox1": {
-         "img": "hhttps://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2016/10/red-dead-redemption-2-caratula-provisional.jpg?itok=m4EloRom",
          "url": "https://amzn.to/2UG9r9a"
-        }
+        },
+        "img": "hhttps://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2016/10/red-dead-redemption-2-caratula-provisional.jpg?itok=m4EloRom"
       }
     }
   ]
