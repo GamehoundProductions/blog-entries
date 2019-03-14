@@ -3,11 +3,22 @@
     {
       "title": "'Hello World' slash Disclaimer",
       "id": "hello_world_blog"
-
     },   
     {
       "title": "RDR2 Notes",
-      "id": "rdr2_notes"
+      "id": "rdr2_notes",
+      "product" : {
+        "any": {
+        },
+        "ps4": {
+         "img": "https://images-na.ssl-images-amazon.com/images/I/81z80lFufgL._AC_SL1500_.jpg",
+         "url": "https://amzn.to/2O6Ewjv",
+        },
+        "xbox1": {
+         "img": "https://images-na.ssl-images-amazon.com/images/I/81X5U3Q10YL._AC_SL1500_.jpg",
+         "url": "https://amzn.to/2UG9r9a",
+        }
+      }
     }
   ]
 }
