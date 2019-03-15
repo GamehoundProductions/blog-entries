@@ -1,0 +1,107 @@
+<template lang='pug'>
+  div.has-text-justified
+    article.columns.has-text-centered.blog-title
+      .column
+        p Brave New World (by Aldous Huxley)
+
+    article.columns.is-multiline.panel
+      .column.is-12
+        p &nbsp;The book has an interesting take on the concept of &ldquo;civilization&rdquo;
+          | and human existence in the &ldquo;modern&rdquo; world. Back in the days,
+          | when I had a wildly growing mustache that I neglected to shave of,
+          | we didn't have that kind of books included in a Belorussian  high school
+          | curriculum. Or maybe I wasn't paying attention. The thing is, even if
+          | I would read it at that age, I would probably not "get it".
+      .column.is-12
+        p What is it about?
+      .column.is-12
+        p &nbsp;There exist a world of advanced technology. A world where there are no
+          |  concept of Family; no mothers or father; where humans are genetically
+          |  bred, raised and &ldquo;conditioned&rdquo; for different social groups
+          |  to perform their specific tasks (jobs) in the civilized world.&nbsp;
+          | <em> &ldquo;Everyone belongs to everyone else&rdquo;</em>
+          |  - the concept of &rdquo;freedom&rdquo; expressed throughout the book.
+        p &nbsp;Then there is also&nbsp; <em>soma</em> - a drug everyone takes to keep
+          |  them happy. No anger; no hate; no jealousy and such. Here goes <em>Utopia</em>
+        p And then there is a less civilized world - savages, who breed, get married,
+          |  hunt, perform religious rituals and such - all the things that are familiar
+          |  to us readers. Both cultures sees each other as something unnatural,
+          |  inappropriate or even alien. It wasn&rsquo;t clear to me if the were
+          |  any conflicts present at the time of the told story (but wars were ).
+          |  One thing, though, is that modern world had no interest in the land
+          |  owned by savages, so maybe for that - there were no open conflicts between them.
+        p.panel.bg-yellow-less.padding-1.comic-font(style="margin-left: 0rem; margin-right: 0rem;")
+          strong Details on how the world works is critical to lure someone into
+            |  the world as if it is real.
+
+    article.columns.is-multiline
+      .column.is-12.speech-box(style="margin-top: 1rem; margin-bottom: 1rem;")
+        p.has-text-centered WARNING: Ramble mode On.
+        br
+        p &nbsp;This is a simple concept to comprehend, but difficult to execute. <em>
+          | &rdquo;Easy to learn - hard to master&rdquo;.</em> - as one might say.
+          |  I think the Creator must truly believe and visualize the world him/herself
+          |  to design it properly. Oh maybe there are workarounds... I don't really know.
+        br
+        p &nbsp;For the first couple chapters, Aldous goes deep into the detail in how
+          |  factory operates. How fast the conveyor belt moves; for how many days;
+          |  how many inches per unit and so on and so forth. Then, there is enough
+          |  description of the world around the characters and just enough outside
+          |  to convey whatever thought is appropriate at the moment.
+        br
+        p &nbsp;Going deep into details can be a good and a bad thing. And there is
+          |  always truth somewhere in the middle. Russian classical writers Tolstoy
+          |  and Dostoevsky are one of those authors who can take two pages easily describing
+          |  a single small room. Casual reading allows you to read it through fast enough
+          |  to get the idea (if you choose to do so), but if there is a test in
+          |  tomorrow's class... yeah, its gonna suck.
+        br
+        p.has-text-centered WARNING: Ramble mode Off.
+
+    article.columns.is-multiline.panel
+      .column.is-12
+        p  &nbsp;The book got me thinking about the differences in human perceptions and
+          |  how lack of understanding one's views create a communication gap. People
+          |  put "labels" on each other for one reason or another.
+        p Author never seem to imply which side is better or worse; who is good or bad.
+          |  He just describes how things are from
+          |  the minds of characters in particular scenes. I like that approach.
+          |  That makes readers decide for themselves which part of that world
+          |  they think they would &ldquo;fit in&ldquo;. As always, it is a mixed
+          |  blessing. And as always, one must choose for which audience of that
+          |  mix one wants to appeal to.
+
+        p.panel.bg-yellow-less.padding-1.comic-font(style="margin-left: 0rem; margin-right: 0rem;")
+          strong Not choosing a side as a story teller can be a great thing if
+            |  you want to persuade some sort of controversy either in behavior,
+            |  characters' personalities, the situation or which color is better.
+            |  Lay out &rdquo;facts&rdquo; on the subject as-is an let users
+            |  decide for themselves.
+
+    article.columns.is-multiline.panel
+      .column.is-12
+        p &nbsp;There has been many stories since the book was written in 1931 about Utopia.
+          |  And a great deal of the involves artificially created &ldquo;happiness&rdquo;
+          |  in humans by the use of some sort of drugs. In Brave New World, though,
+          |  I wonder if <em>soma</em> is even as critical part of the narrative as
+          |  it tries(?) to be. I found <em>human conditioning</em> far more believable
+          |  aspect of the story that resonates better with our world. A Utopia
+          |  story without a magic drug, but rather based on &ldquo;brainwashing&rdquo;
+          |  would sound a bit more appealing to me.
+
+      .column.is-12
+        p &nbsp;The writing style in which Aldous H. describes certain actions in the book
+          |  that help reader to "feel" the scene. Short sentences or describe fast, abruptactions
+          |  or mid-sentence &quot;in-bracket&quot; insertions to convey emotions
+          |  and reactions:
+        br
+        p
+          | &quot;...
+          em
+            | and not only abnormal, actually immoral (no!): and had therefore
+            | been rigorously suppressed...
+          | &quot;
+        p <em>&quot;Whisk, the cathedrals; whisk, whisk, King Lear and the Thoughts
+          |  of Pascal. Whisk, Passion; whisk, Requiem; whisk, Symphony; whisk &mldr;&quot;</em>
+          |  - Brave new World by Aldous Huxley
+</template>
