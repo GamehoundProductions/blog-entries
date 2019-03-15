@@ -18,6 +18,15 @@
         },
         "img": "https://images-na.ssl-images-amazon.com/images/I/81z80lFufgL.AC_SL1500_.jpg"
       }
+    },
+    {
+     "title": "Book: Brave New World",
+     "product": {
+       "any": {
+         "url": "https://amzn.to/2FfKA6x",
+         "name": "Amazon"
+       }
+     }
     }
   ]
 }
