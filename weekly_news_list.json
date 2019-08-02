@@ -1,9 +1,11 @@
 {
- "weekly" : [
-   {
-     "title": "August: Week 1",
-     "id": "wn1",
-     "source": "some/url/path"
-   }
-  ]
+  "weekly": {
+    "August, 2019": [
+      {
+        "title": "August: Week 1",
+        "id": "wn1",
+        "source": "some/url/path"
+      }
+    ]
+  }
 }
