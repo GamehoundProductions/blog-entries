@@ -1,16 +1,99 @@
 {
   "headlines": [
     {
-      "img": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/2018/06/22/c2084314/Switch_MarioTennisAces_ND0111_scrn01.jpeg",
-      "text": "Mario Tennis Aces Free For A Short Time For Switch Online Subscribers.",
+      "img": "https://news.otakukart.com/wp-content/uploads/2019/07/Dungeons-and-Dragons-Movie-1068x534.jpg",
+      "text": "Dungeon & Dragons based movie has been in developmend for several years is now 'rebooted' with new directors in line. Current release date is set to November 21, 2021.",
+      "postedOn": "08/02/2019",
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/dungeons-and-dragons-movie-still-happening-new-dir/1100-6468797/"
+      }
+    },
+    {
+      "img": "https://blog.activision.com/content/dam/atvi/activision/atvi-touchui/blog/crash-bandicoot/body/GP2-02.jpg",
+      "text": "Microtransactions will be added to the Crash Team Racing game in the next update.",
+      "postedOn": "07/30/2019",
+      "source": {
+        "name": "Activision Games Blog",
+        "url": "https://blog.activision.com/content/dam/atvi/activision/atvi-touchui/blog/crash-bandicoot/body/GP2-02.jpg"
+      }
+    },
+    {
+      "img": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/2018/06/14/ca309c2a/007_E3_screenshot.jpeg",
+      "text": "'Mavericks: Proving Ground' - has been canceled.",
+      "postedOn": "07/31/2019",
       "source": {
         "name": "GameInformer",
-        "url": "https://www.gameinformer.com/psa/2019/08/01/mario-tennis-aces-free-for-a-short-time-for-switch-online-subscribers"
+        "url": "https://www.gameinformer.com/2019/07/31/mavericks-proving-ground-a-1000-person-battle-royale-has-been-canceled"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/01/Georifters_01-23-19.jpg",
+      "text": "'Georifters' - a 'shifting action platformer' announced by Busy Toaste studio due out for Switch in 2019.",
+      "postedOn": "07/23/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/01/shifting-action-platformer-georifters-announced-for-switch"
+      }
+    },
+    {
+      "img": "https://i0.wp.com/www.geektown.co.uk/wp-content/uploads/2017/06/john-wick.jpg?resize=735%2C385&ssl=1",
+      "text": "John Wick TV Show is in Development and is a Prequel to the move franchise.",
+      "postedOn": "07/31/2019",
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/john-wick-tv-show-is-still-in-development-will-be-/1100-6468723/"
+      }
+    },
+    {
+      "img": "http://pic.imgmarket.net/TH2/201704/123518_1.jpg?TaskDetailId=20607302_bf9a8836",
+      "text": "After 14 years, Super Smash Bros. on Nintendo 64 has a new Board the Platfoirms record for the Pikachu stage.",
+      "postedOn": "07/31/2019",
+      "source": {
+        "name": "Nintendo Enthusiast",
+        "url": "https://www.nintendoenthusiast.com/2019/07/30/after-14-years-one-of-smash-64s-board-the-platforms-has-a-new-world-record/"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/07/Bookbound-Brigade_07-29-19.jpg",
+      "text": "‘Bookbound Brigade’ - a Metroidvania game anounced by a Intragames (publisher) and Digital Tales (developer).",
+      "postedOn": "07/29/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/07/literary-legends-themed-metroidvania-game-bookbound-brigade-announced-for-ps4-switch-and-pc"
+      }
+    },
+    {
+      "img": "https://nintendosoup.com/wp-content/uploads/2019/04/check-out-these-new-japanese-trailers-for-the-mega-drive-mini-7DuyZ6YDTkk-1038x576.jpg",
+      "text": "Sega Mega Drive Mini delayed in Europe and the Middle East until October.",
+      "postedOn": "07/30/2019",
+      "source": {
+        "name": "NintendoSoup",
+        "url": "https://nintendosoup.com/sega-mega-drive-mini-release-delayed-to-october-in-europe/"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2017/02/IO-Interactive-New-IP_02-08-17.jpg",
+      "text": "IO Interactive might be working on new IP and Hitman 3.",
+      "postedOn": "07/30/2019",
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/2019/07/29/hitman-3-is-currently-in-development-and-might-be-episodic-again"
+      }
+    },
+    {
+      "img": "https://www.extremetech.com/wp-content/uploads/2017/01/442228-portable-640x497.jpg",
+      "text": "You can run Android on the Nintendo Switch, but only on the consoles with Nvidia Tegra X1 ARM processor (2017 - yearly 2018).",
+      "postedOn": "07/29/2019",
+      "source": {
+        "name": "ExtremeTech",
+        "url": "https://www.extremetech.com/mobile/295847-you-can-now-run-android-on-the-nintendo-switch"
       }
     },
     {
       "img": "https://www.geek.com/wp-content/uploads/2015/04/gamestop_storefront.jpg",
       "text": "Gamestop Lays Off 50 Managers. Currently it has the lowest (in its history) share price of $3.84.",
+      "postedOn": "08/01/2019",
       "source": {
         "name": "GameSpot",
         "url": "https://www.gamespot.com/articles/gamestop-struggles-continue-as-company-lays-off-50/1100-6468860/"
