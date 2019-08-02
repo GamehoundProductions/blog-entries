@@ -4,7 +4,8 @@
       {
         "title": "Week 1",
         "id": "wn1",
-        "source": "some/url/path"
+        "source": "some/url/path",
+        "date": "08/02/2019"
       }
     ]
   }
