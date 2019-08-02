@@ -1,0 +1,9 @@
+{
+ "weekly" : [
+   {
+     "title": "August Week 1",
+     "id": "wn1",
+     "source": "some/url/path"
+   }
+  ]
+}
