@@ -7,6 +7,14 @@
         "name": "GameInformer",
         "url": "https://www.gameinformer.com/psa/2019/08/01/mario-tennis-aces-free-for-a-short-time-for-switch-online-subscribers"
       }
-    }  
+    },
+    {
+      "img": "https://www.geek.com/wp-content/uploads/2015/04/gamestop_storefront.jpg",
+      "text": "Gamestop Lays Off 50 Managers. Currently it has the lowest in its history share price of $3.84.",
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gamestop-struggles-continue-as-company-lays-off-50/1100-6468860/"
+      }
+    }
   ]
 }
