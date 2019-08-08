@@ -1,0 +1,67 @@
+{
+  "headlines": [
+    {
+      "img": "https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2019/07/diablo-1.jpg?w=830&ssl=1",
+      "text": "'Diablo' is now playable via browser and was ported by fans. It seems  they've levereged the same source code used for porting the game to Nintendo Switch.",
+      "postedOn": "07/31/2019",
+      "source": {
+        "name": "Bloody Disgusting",
+        "url": "https://bloody-disgusting.com/video-games/3575951/thanks-dedicated-fans-diablo-now-playable-web-browser/"
+      }
+    },
+    {
+      "img": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fmattdemers.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fradiant_riotgames_banner-720x360.png&f=1",
+      "text": "Radiant Entertainment are developing a fighting game for Riot Games. It is not clear whether or not it will be set in the League Of Legends universe.",
+      "postedOn": "08/02/2019",
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/2019/08/02/riot-games-confirms-its-making-a-fighting-game"
+      }
+    },
+    {
+      "img": "http://www.entertainmentbuddha.com/blog/wp-content/uploads/2019/08/noMansSkyBeyond.jpg",
+      "text": "No Man's Sky getting next (free) update 'Beyond' on August 14. The expension will include new social and multiplayer experience as well as will bring the full VR support.",
+      "postedOn": "08/02/2019",
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/no-mans-sky-huge-beyond-update-releases-in-august/1100-6468869/"
+      }
+    },
+    {
+      "img": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/2019/08/01/ebc36b21/mv.jpg",
+      "text": "Monumentum Valley 3 has been anounced by the developers, Ustwo Games.",
+      "postedOn": "08/01/2019",
+      "source": {
+        "name": "Gameinformer",
+        "url": "https://www.gameinformer.com/2019/08/01/monument-valley-3-is-in-development"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/GG-Next_08-04-19.jpg",
+      "text": "New Guilty Gear title announced to release in 2020.",
+      "postedOn": "08/04/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/new-guilty-gear-title-announced"
+      }
+    },
+    {
+      "img": "https://skyofgames.com/wp-content/uploads/2016/12/need-for-speed-2017-download-free.png",
+      "text": "EA is planing to release a new Need For Speed game before the end of March 2020.",
+      "postedOn": "07/31/2019",
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/new-need-for-speed-coming-soon-ea-confirms/1100-6468787/"
+      }
+    },
+    {
+      "img": "",
+      "text": "",
+      "postedOn": "",
+      "source": {
+        "name": "",
+        "url": ""
+      }
+    }
+  ]
+}
