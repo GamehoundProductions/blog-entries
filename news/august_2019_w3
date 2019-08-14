@@ -1,0 +1,103 @@
+{
+  "headlines": [
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/System-Shock-2-Enhanced-Edition_08-12-19-600x338.jpg",
+      "text": "System Shock 2: Enhanced Edition announced.",
+      "postedOn": "08/12/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/system-shock-2-enhanced-edition-announced"
+      }
+    },
+    {
+      "img": "http://cdn.collider.com/wp-content/uploads/2019/08/friends-in-theaters-3.jpg",
+      "text": "12 episodes of 'Friends' will be in theaters over three nights of September 23, September 28 and October 2 to celebrate its 25th Anniversary.",
+      "postedOn": "08/12/2019",
+      "source": {
+        "name": "Collider",
+        "url": "http://collider.com/friends-in-theaters-tickets/#friends-25th-anniversary"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/Doraemon-SoS_08-13-19.jpg",
+      "text": "'Doraemon Story of Seasons' a farming gaming published by Bandai Namco Entertainment coming to Switch and PC on October 11.",
+      "postedOn": "08/12/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/doraemon-story-of-seasons-launches-october-11-in-the-west"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/Vitamin-Connection_08-13-19-600x300.jpg",
+      "text": "'Vitamin Connection' for Switch, a 2 player coop game has been announced by WayForward (a developer of 'Shantae').",
+      "postedOn": "08/13/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/wayforward-announces-co-op-action-game-vitamin-connection-for-switch"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/Ethan-Carter-Switch_08-13-19.jpg",
+      "text": "'The Vanishing of Ethan Carter' coming to Switch on August 15, 2019.",
+      "postedOn": "08/14/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/the-vanishing-of-ethan-carter-coming-to-switch-on-august-15"
+      }
+    },
+    {
+      "img": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.pushsquare.com%2Fnews%2F2018%2F06%2Fe3_2018_session_looks_to_fill_the_skate_4_shaped_hole_in_your_life%2Flarge.jpg&f=1",
+      "text": "'Session' - a skateboarding game launches an early access version on PC this Fall.",
+      "postedOn": "08/13/2019",
+      "source": {
+        "name": "Jack Of All Controllers",
+        "url": "https://jackofallcontrollers.com/2019/08/13/skateboarding-sim-session-launches-on-steam-early-access-september-17th-xbox-game-preview-in-october/"
+      }
+    },
+    {
+      "img": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/30442987/bdde49432cce885e87cb735da8d23499edd4b166.jpg",
+      "text": "'Frostpunk' is coming to PS4 & Xbox One in October.",
+      "postedOn": "08/13/2019",
+      "source": {
+        "name": "Gameinformer",
+        "url": "https://www.gameinformer.com/2019/08/13/frostpunk-descends-upon-the-ps4-xbox-one-this-october"
+      }
+    },
+    {
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/Vigil-Longest-Night_08-13-19.jpg",
+      "text": "'Vigil: The Longest Night' - a 2D action platformer is coming to PS4, Xbox One and PC in 2020.",
+      "postedOn": "08/13/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/2d-action-platformer-vigil-the-longest-night-coming-to-ps4-xbox-one-and-pc-in-early-2020-switch-later"
+      }
+    },
+    {
+      "img": "https://assets1.ignimgs.com/2013/08/29/screenshotpresidentialpackgroupjpg-e94143_1280w.jpg",
+      "text": "A new 'Saints Row' game is in development as confirmed by the publisher THQ Nordic.",
+      "postedOn": "08/14/2019",
+      "source": {
+        "name": "Polygon",
+        "url": "https://www.polygon.com/2019/8/14/20805385/new-saints-row-game-thq-nordic-volition-timesplitters-dead-island"
+      }
+    },
+    {
+      "img": "",
+      "text": "",
+      "postedOn": "08/12/2019",
+      "source": {
+        "name": "",
+        "url": ""
+      }
+    },
+    {
+      "img": "",
+      "text": "",
+      "postedOn": "08/12/2019",
+      "source": {
+        "name": "",
+        "url": ""
+      }
+    }
+  ]
+}
