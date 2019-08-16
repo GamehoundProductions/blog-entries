@@ -29,7 +29,7 @@
     },
     {
       "img": "https://gematsu.com/wp-content/uploads/2019/08/Vitamin-Connection_08-13-19-600x300.jpg",
-      "text": "'Vitamin Connection' for Switch, a 2 player coop game has been announced by WayForward (a developer of 'Shantae').",
+      "text": "'Vitamin Connection' for Switch, a 2 player coop game announced by WayForward (a developer of 'Shantae').",
       "postedOn": "08/13/2019",
       "source": {
         "name": "Gematsu",
@@ -83,7 +83,7 @@
     },
     {
       "img": "https://static4.gamespot.com/uploads/scale_medium/1197/11970954/3080793-91gqr89ilil._sl1500_.jpg",
-      "text": "No more further updates and support for the Halo Wars 2 has been confirmed by the 343 Industries due to lack of staff and different priorities.",
+      "text": "No more further updates and support for the Halo Wars 2 as confirmed by the 343 Industries due to lack of staff and current different studio's priorities.",
       "postedOn": "08/14/2019",
       "source": {
         "name": "GameSpot",
@@ -91,12 +91,57 @@
       }
     },
     {
-      "img": "",
-      "text": "",
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/Unlucky-Seven_08-16-19.jpg",
+      "text": "'Unlucky Seven' - an adventure game announced for PC on August 30, 2019 and PS4, Xbox One and Switch to release in 2020.",
+      "postedOn": "08/16/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/adventure-game-unlucky-seven-coming-to-ps4-xbox-one-and-switch-in-2020"
+      }
+    },
+    {
+      "img": "https://www.oneangrygamer.net/wp-content/uploads/2019/08/Ben-Irving-leave-bioware-585x300.png",
+      "text": "Ben Irving, Anthem and Mass Effect Andromeda lead, leaves Bioware.",
+      "postedOn": "08/15/2019",
+      "source": {
+        "name": "Gameinformer",
+        "url": "https://www.gameinformer.com/2019/08/15/anthem-lead-ben-irving-leaves-bioware"
+      }
+    },
+    {
+      "img": "https://pbs.twimg.com/media/EB9Ms4nUEAEqfjW?format=png&name=small",
+      "text": "Spelunky 2 delayed for 2020.",
+      "postedOn": "08/14/2019",
+      "source": {
+        "name": "Derek Yu on Twitter",
+        "url": "https://twitter.com/mossmouth/status/1161731569196814336"
+      }
+    },
+    {
+      "img": "https://www.gameswirtschaft.de/wp-content/uploads/2019/06/Commandos-2-HD-Remaster-Termin.jpg",
+      "text": "Commandos 2 and Praetorians HD remasters announced to release in 2019.",
       "postedOn": "08/12/2019",
       "source": {
         "name": "",
-        "url": ""
+        "url": "https://www.pcgamer.com/commandos-2-and-praetorians-hd-remasters-announced/"
+      }
+    },
+    {
+      "img": "https://i.kinja-img.com/gawker-media/image/upload/s--2qMhcpji--/c_scale,f_auto,fl_progressive,q_80,w_800/lnywtblxoalclim94u0h.jpg",
+      "text": "A new mission can be unlocked in GTA Online.... by getting drunk at the casino.",
+      "postedOn": "08/15/2019",
+      "source": {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/getting-drunk-in-gta-onlines-casino-unlocks-a-new-secre-1837274391"
+      }
+    },
+    {
+      "img": "",
+      "text": "'Mable and the Wood' - a metroidvania game coming to PC on August 23. Xbox One and Switch release will follow soon.",
+      "postedOn": "08/12/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/mable-and-the-wood-launches-august-23-for-pc-soon-after-for-xbox-one-and-switch"
       }
     }
   ]
