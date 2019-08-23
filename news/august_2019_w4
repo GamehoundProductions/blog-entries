@@ -19,48 +19,39 @@
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/DQB-Director-Leaves-SE_08-23-19.jpg",
+      "text": "'Dragon Quest Builders' series director Kazuya Niinou leaves Square Enix.",
+      "postedOn": "08/23/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/dragon-quest-builders-series-director-kazuya-niinou-leaves-square-enix"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://gematsu.com/wp-content/uploads/2019/08/MHWI_08-21-19.jpg",
+      "text": "Playstation 4 exclusive addon for Monster Hunter World: Iceborne expansion has been announced that will let users to play as  Aloy from Horizon Zero Dawn: The Frozen Wilds.",
+      "postedOn": "08/21/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/monster-hunter-world-iceborne-expansion-x-horizon-zero-dawn-the-frozen-wilds-collaboration-announced"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://gamingbolt.com/wp-content/uploads/2019/05/ubisoftlogo-768x432.jpg",
+      "text": "Ubisoft belives that due to rapidly emerging new technologies, it is the right time to invest into new IPs.",
+      "postedOn": "08/22/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gemingbolt",
+        "url": "https://gamingbolt.com/its-the-right-time-to-invest-in-new-ips-ubisoft"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://gamingbolt.com/wp-content/uploads/2019/06/xbox-game-studios-logo.jpg",
+      "text": "Microsoft says that they have no further plans to expand to other consoles and will focus to release new games on their platforms instead.",
+      "postedOn": "08/21/2019",
       "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
+        "name": "Gamingbolt",
+        "url": "https://gamingbolt.com/microsoft-says-theres-no-plans-for-more-first-party-titles-on-ps4-or-switch"
       }
     },
     {
@@ -100,57 +91,12 @@
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
       "img": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2019/08/19/52c75b03/everspace2.jpg",
       "text": "'Everspace 2' - a single player space shooter announced to launch in Early Access in mid 2020. The Kickstarter campain planned for September 2019.",
       "postedOn": "08/19/2019",
       "source": {
         "name": "Gameinformer",
         "url": "https://www.gameinformer.com/gamescom-2019/2019/08/19/single-player-space-shooter-everspace-2-revealed-at-gamescom"
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
       }
     }
   ]
