@@ -2,7 +2,7 @@
   "headlines": [
     {
       "img": "https://gamingbolt.com/wp-content/uploads/2019/08/tokyo-game-show-2019-768x432.jpg",
-      "text": "Organizers of the Tokyo Game Show 2019 said the scope of the confirence this year will be biggest in its history featuring 2,415 booths, 655 exhibitors and 1,368 games.",
+      "text": "Organizers of the Tokyo Game Show 2019 said the scope of the conference this year will be biggest in its history featuring 2,415 booths, 655 exhibitors and 1,368 games.",
       "postedOn": "08/30/2019",
       "source": {
         "name": "Gamingbolt",
@@ -19,84 +19,57 @@
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://gamingbolt.com/wp-content/uploads/2019/08/The-Lion-King-768x432.jpg",
+      "text": "The Lion King and Aladdin remasters announced. Original soundtrack included, 1080p resolution and a feature to fast-forward and rewind the game.",
+      "postedOn": "08/27/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/08/aladdin-and-the-lion-king-games-remaster-collection-announcement-leaked"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://destructoid.com/ul/564997-akuma_header_messatsu.jpg",
+      "text": "Bandai Namco stated to currently have no interest in exclusivity deals with Epic Games, since the focus of the company right now is to bring the content to as many fans as possible.",
+      "postedOn": "08/27/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/bandai-namco-isn-t-interested-in-epic-games-store-exclusivity-564997.phtml"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "http://gimmegimmegames.com/wp-content/uploads/2017/08/687A459F-86B5-4066-95DC-07FE0BC074E6-28875-00000D23D27A5133_tmp.jpg",
+      "text": "Yakuza 7 announced to release on January 16, 2020 in Japan and later in North America and Europe. It now features a turn-based combat.",
+      "postedOn": "08/29/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/yakuza-7-trailer-rpg-combat/"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://cdn.mos.cms.futurecdn.net/BeC59pPA9KX6EhjFx7dsvB-650-80.jpg",
+      "text": "Telltale Games has been acquired by LCG Entertainment and now has the rights to The Wolf Among Us, Batman and Puzzle Agent. The Walking Dead, however, still belongs Skybound.",
+      "postedOn": "08/28/2019",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/telltale-games-has-been-acquired-by-a-new-company-so-series-like-the-wolf-among-us-could-return/"
       }
     },
     {
-      "img": "",
-      "text": "",
+      "img": "https://www.igta5.com/images/gta-5-trailer-1-gta-v-logo.jpg",
+      "text": "EMEAA 'best-selling games by units' chart shows GTA V taking back the lead. Crash Team Racing is taking the second place followed by Super Mario Maker 2.",
       "postedOn": "",
       "source": {
-        "name": "",
-        "url": ""
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-08-23-grand-theft-auto-v-is-back-on-top-in-the-emeaa-charts"
       }
     },
     {
-      "img": "",
-      "text": "",
-      "postedOn": "",
+      "img": "https://pbs.twimg.com/media/EC65IIoX4AMkCjr?format=jpg&name=small",
+      "text": "Cuphead sheet music for the most iconic tunes is now available for sale.",
+      "postedOn": "08/27/2019",
       "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
-      }
-    },
-    {
-      "img": "",
-      "text": "",
-      "postedOn": "",
-      "source": {
-        "name": "",
-        "url": ""
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/cuphead-has-official-sheet-music-and-that-rules-565004.phtml"
       }
     }
   ]
