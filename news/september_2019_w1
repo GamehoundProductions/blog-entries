@@ -1,0 +1,94 @@
+{
+  "headlines": [
+    {
+      "img": "http://www.gearboxsoftware.com/wp-content/uploads/2016/04/homeworld_rmc-12.jpg",
+      "text": "Homeworld 3 crowdfunding campaign has begun with a goal of $1. As of September 2nd 2019, 2,413 people supported with a total amount of $434,500.",
+      "postedOn": "09/02/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-02-homeworld-3-crowdfunding-campaign-isnt-actually-about-funding"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/amFuLVe4iEfZVfUSC3SMCj-650-80.jpg",
+      "text": "Assassin's Creed Rebel Collection (Black Flag + Rogue bundle) announced for Nintendo Switch.",
+      "postedOn": "09/03/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.destructoid.com/-update-more-assassin-s-creed-titles-are-headed-to-nintendo-switch-565746.phtml"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/565618-neo%20geo%20arcade%20stick%20pro.jpg",
+      "text": "SNK announced new Neo Geo Arcade Stick Pro.",
+      "postedOn": "09/03/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/snk-announces-new-neo-geo-arcade-stick-pro-565618.phtml"
+      }
+    },
+    {
+      "img": "https://vignette.wikia.nocookie.net/nightinthewoods/images/2/26/Nitw.jpg/revision/latest?cb=20170331223313",
+      "text": "Alec Holowka, the developer of Night in the Woods, died on August 31, 2019.",
+      "postedOn": "08/31/2019",
+      "source": {
+        "name": "PCGamer",
+        "url": "https://www.pcgamer.com/night-in-the-woods-developer-alec-holowka-has-died/"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/565627-DD1.jpg",
+      "text": " Doom 4 Vanilla a 'Doom 2016 the way 1993 did it' mod for is now available to play. It is a stretched classic Doom with enemies, 'glory kills' and bunch of other changes to resemble the Doom 2016 game.",
+      "postedOn": "09/03/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/you-can-now-play-a-doom-4-demake-with-classic-doom-without-a-bethesda-account-and-it-s-pretty-insane-565627.phtml"
+      }
+    },
+    {
+      "img": "http://images.eurogamer.net/2015/articles/1/8/1/9/8/4/4/the-binding-of-isaac-dev-announces-the-legend-of-bum-bo-1458669536082.jpg/EG11/thumbnail/1200x630/format/jpg/1819844.jpg",
+      "text": "Edmund McMillen (The Binding of Isaac, Super Meat Boy) revealed a trailer for the latest game he has been working on - The Legend of Bum-bo to release on November 12th, 2019.",
+      "postedOn": "09/04/2019",
+      "source": {
+        "name": "Edmund McMillen Twitter",
+        "url": "https://twitter.com/edmundmcmillen/status/1169275601749831681"
+      }
+    },
+    {
+      "img": "https://images.nintendolife.com/e8d66462db508/logo.original.jpg",
+      "text": "Nintendo UK partners with Digital Schoolhouse (a not-for-profit organization helping young schoolchildren with the use of computers and technology) for educational program.",
+      "postedOn": "09/04/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/nintendo-uk-partners-with-digital-schoolhouse-for-educational-programme-565775.phtml"
+      }
+    },
+    {
+      "img": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_CrashTeamRacingNitroFueled.jpg",
+      "text": "Crash Team Racing was the best-selling game in UK in August, 2019. 61% of all copies sold on PS4. %22.6 of all boxed games sold on Nintendo Switch.",
+      "postedOn": "",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-05-crash-team-racing-was-the-uks-best-selling-game-in-august"
+      }
+    },
+    {
+      "img": "https://gearnuke.com/wp-content/uploads/2017/01/sledgehammer-games-logo.png",
+      "text": "Sledgehammer Games (Call of Duty developers) is opening a studio in Melbourne, Australia. Precise plans for that move are not yet clear.",
+      "postedOn": "09/05/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-05-sledgehammer-games-opening-dev-studio-in-australia"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/okonMuZECWY9WjRLghoft9-650-80.jpg",
+      "text": "Supper Nintendo games are coming to the Switch and will require subscription to Switch Online to get access to.",
+      "postedOn": "09/04/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/nintendo-is-bringing-super-nintendo-games-to-the-switch-along-with-a-new-snes-controller/"
+      }
+    }
+  ]
+}
