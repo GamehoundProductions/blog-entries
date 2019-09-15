@@ -1,0 +1,130 @@
+{
+  "headlines": [
+    {
+      "img": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200_amp/public/media/image/2019/09/marvel-strike-force.jpg?itok=Z1BDDL-E",
+      "text": "Disney is planing to sale its game-focused business FoxNext(Marvel Strike Force, Aliens). This seems to align with their move since 2016 to exit games publishing business.",
+      "postedOn": "09/11/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-11-disney-reportedly-planning-sale-of-gaming-division-foxnext"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/566232-rainbow%20six%20siege%2050%20million%20players.jpg",
+      "text": "Rainbow Size Siege is now at 50 million player milestone.",
+      "postedOn": "09/08/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/rainbow-six-siege-announces-50-million-player-milestone-566232.phtml"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/566279-Chronicwhat.jpg",
+      "text": "Final Fantasy Crystal Chronicles Remastered is set to release on January 23, 2020 for PS4, Nintendo Switch and iOS and will feature a cross-platform play.",
+      "postedOn": "09/09/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/cross-platform-play-will-be-included-in-final-fantasy-crystal-chronicles-remastered-edition-566279.phtml"
+      }
+    },
+    {
+      "img": "https://techraptor.net/wp-content/uploads/2017/03/GameStop-Black.jpg",
+      "text": "GameStop announced to close between 180 and 200 'under-performing stores' globally as part of its 'Reboot' plan. There are over 5700 stores worldwide and, as stated by CFO James Bell, 95% of them are profitable.",
+      "postedOn": "09/10/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-10-gamestop-to-close-180-200-underperforming-stores-globally-this-year"
+      }
+    },
+    {
+      "img": "http://cdn.focus-home.com/admin/games/vampyr/meta/og_image.jpg",
+      "text": "Vampyr - a game developed by DONTNOD Entertainment (Life Is Strange series) is set to release on Nintendo Switch on October 29, 2019.",
+      "postedOn": "09/10/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/vampyr-is-coming-to-switch-just-in-time-for-halloween/"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/4eWd84EDLWQDEE9fF8sFef-650-80.jpg",
+      "text": "Intel will be hosting a Rocket League and Street Fighter tournament at the 2020 Summer Olympics in Tokyo, Japan. Hard to say if the event is part of the Olympics official program or just an event happening at the same time in the same place.",
+      "postedOn": "09/11/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/esports-is-at-the-2020-olympics-as-rocket-league-and-street-fighter-5-feature-in-intel-world-open/"
+      }
+    },
+    {
+      "img": "https://cdn.dribbble.com/users/508850/screenshots/2200516/drivetime_app_icon.png",
+      "text": "Drivetime (an audio-only, voice-activated app/game to play while driving) raises $11 million with participation of Amazon Alexa Fund, Google Assistant Investments Program and more.",
+      "postedOn": "09/09/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-09-drivetime-raises-usd11m-for-games-drivers-can-play-on-the-road"
+      }
+    },
+    {
+      "img": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/4145017/e3020ec825d023b1dc41a2dc549a527444d10dec.png",
+      "text": "Steam Store updates several of its recommendation algorithms, where 'Recommended for You' become less biased towards popular games. 'Experiment' group of users showed 75% increase in unique visits and 48% increase in average visits per game.",
+      "postedOn": "09/12/2019",
+      "source": {
+        "name": "Steamworks Development",
+        "url": "https://steamcommunity.com/groups/steamworks/announcements/detail/1591381408652851752"
+      }
+    },
+    {
+      "img": "https://img.gizchina.com/2019/03/Apple-Arcade-Official.png",
+      "text": "Apple Arcade (an App Store subscription service) launches on September 19, 2019. With that, new titles announced such as 'Pac-Man Party Royale by Bandai Namco, 'Rayman Mini' by Ubisoft and more. ",
+      "postedOn": "09/10/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/09/apple-arcade-launches-september-19-for-ios-chuchu-rocket-universe-various-daylife-from-square-enix-and-more-announced"
+      }
+    },
+    {
+      "img": "https://gamingbolt.com/wp-content/uploads/2019/03/GWENT-Crimson-Curse-768x432.jpg",
+      "text": "Gwent: The Witcher Card Game launches on iOS October 29, 2019. Progress and purchases can be shared between iOS and PC versions, but not to the console.",
+      "postedOn": "09/14/2019",
+      "source": {
+        "name": "Gamingbolt",
+        "url": "https://gamingbolt.com/gwent-the-witcher-card-game-launches-on-ios-october-29"
+      }
+    },
+    {
+      "img": "https://toybuzz.org/wp-content/uploads/2016/02/npd-logo.jpg",
+      "text": "The NPD group reported the down by 6% spending on games in US year-to-date. Year-to-date, hardware spending is down 21% and software sales up by 1%.",
+      "postedOn": "09/13/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-13-npd-us-game-sales-drop-18-percent-in-august"
+      }
+    },
+    {
+      "img": "https://hallucinationrain.files.wordpress.com/2014/03/nintendo-logo.jpg",
+      "text": "Nintendo sues RomUniverse (aa site offering ROMs and ISOs), alleges the trademark and copyrights violation as well as 'been profiting off the distribution of unauthorized copies of games by selling a premium membership'.",
+      "postedOn": "09/11/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-11-nintendo-sues-rom-site"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/566788-A.jpg",
+      "text": "Starting next month (~October 2019), Nintendo will allow to convert a solo Switch Online membership into a family plan.",
+      "postedOn": "09/13/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/nintendo-will-allow-you-to-convert-your-solo-switch-online-membership-into-a-family-plan-next-month-566788.phtml"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/DoCaVBEXSkwp7TUKhWRdhT-650-80.png",
+      "text": "Super Nintendo World - a Mario theme park, will arrive as a new section of Universal Studios Japan in sprint 2020.",
+      "postedOn": "09/13/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/super-nintendo-world-opening-rides/"
+      }
+    }
+  ]
+}
