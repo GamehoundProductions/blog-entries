@@ -1,0 +1,103 @@
+{
+  "headlines": [
+    {
+      "img": "https://cdn.gamer-network.net/2019/articles/2019-09-17-11-09/cover.JPG/EG11/format/jpg/resize/646x-1/quality/80",
+      "text": "Miles Jacobson (Footbal Manager game) advocates the industry to with to eco-friendly packaging. Starting with Football Manager 2020 (November 2019), the physical copies will be packaged in 100% recycled cardboard wrapped in recyclable low-density polyethylene.",
+      "postedOn": "09/17/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-17-football-manager-boss-miles-jacobson-calls-for-an-end-to-plastic-packaging"
+      }
+    },
+    {
+      "img": "https://www.destructoid.com/ul/567252-hamster-corporation-and-hideki-kamiya-receive-world-records-for-retro-re-releases/eee213nuwaazfi8.jpg",
+      "text": "Hamster Corporation (a retro games releasing publisher) was recognized by Guinness World Records 'for the most consecutive weekly releases on the Nintendo eShop.'.",
+      "postedOn": "09/18/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/hamster-corporation-and-hideki-kamiya-receive-world-records-for-retro-re-releases-567252.phtml"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/567377-iOSXboxPS4controllertutorial.jpg",
+      "text": "You can now pair Xbox One and PS4 controller with the iOS 13 based devices.",
+      "postedOn": "09/19/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/ios-13-is-out-here-s-how-to-pair-your-xbox-one-or-ps4-controller-to-your-ios-device-567377.phtml"
+      }
+    },
+    {
+      "img": "https://assets.primagames.com/media/files/sony-sunset-overdrive.jpg/PRIMA/resize/618x0",
+      "text": "Sony is now officially owns Sunset Override (formerly owned by Microsoft). Sony always stated that it also now owns all other past works by Insomniac Games.",
+      "postedOn": "09/17/2019",
+      "source": {
+        "name": "Primagames",
+        "url": "https://primagames.com/news/sony-confirms-it-officially-owns-sunset-overdrive"
+      }
+    },
+    {
+      "img": "https://siliconangle.com/files/2012/03/valve-logo.png",
+      "text": "Vale will Appeal French Courts on ban of the policy against 'reselling digital games purchased from Steam'. (Recently, the court banned the policy to now allow reselling of the digital goods within the European Union.)",
+      "postedOn": "09/19/2019",
+      "source": {
+        "name": "IGN",
+        "url": "https://www.ign.com/articles/2019/09/19/valve-will-appeal-french-courts-on-alleged-anti-consumer-ban-on-digital-games-resale"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/i5y5AtUC4mguah4bSYsFKL-650-80.jpg",
+      "text": "BioWare will be focusing on sesonal events, challanges and chasses instead of previously planned acts releases to focus on long term improvements.",
+      "postedOn": "9",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/anthem-is-ditching-its-acts-structure-in-favor-of-seasonal-updates/"
+      }
+    },
+    {
+      "img": "https://playcrazygame.com/wp-content/uploads/2019/09/PlayStation-State-of-Play.jpg",
+      "text": "Sony's State of Play next stream is scheduled for Tuesday, September 24, 2019. (As stated by Sony, no next-gen related plans will be featured at that time.)",
+      "postedOn": "09/19/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/sony-is-hosting-another-direct-esque-state-of-play-stream-next-week-567365.phtml"
+      }
+    },
+    {
+      "img": "https://assets1.ignimgs.com/thumbs/userUploaded/2019/9/19/pennywiseblog-1568907646277.jpg?width=1280",
+      "text": "Resident Evil 2 mode replaces Mr X with Clown from IT.",
+      "postedOn": "09/18/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/resident-evils-mr-x-just-got-even-worse-with-this-pennywise-mod/"
+      }
+    },
+    {
+      "img": "https://cdn.gamer-network.net/2019/articles/2019-09-17-14-41/Global_Mobile_Game_Revenues_per_store.png/EG11/format/jpg/resize/646x-1/quality/80",
+      "text": "Global Mobile Market Report estimates game revenue of $68.5 billion in 2019. 48.9% is coming from iOS games and 51.1% from Android storefronts. In 2018, Android had 49% of the market.",
+      "postedOn": "09/17/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-17-newzoo-android-games-will-earn-more-revenue-than-ios-in-2019"
+      }
+    },
+    {
+      "img": "https://destructoid.com/ul/567222-yuji%20naka%20new%20game%20square%20enix.jpg",
+      "text": "Yuji Naka (programmer, designer and producer known as the former head of Sonic Team) is currently working on a new action game for Square Enix.",
+      "postedOn": "09/18/2019",
+      "source": {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/yuji-naka-is-developing-a-new-action-game-for-square-enix-567222.phtml"
+      }
+    },
+    {
+      "img": "https://www.sporttechie.com/wp-content/uploads/2018/11/playvs-01.png",
+      "text": "PlayVS - a high school esports league, has raised $50 million, which is no at $96 million total investment raised in 13 months.",
+      "postedOn": "09/18/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-18-playvs-lands-another-usd50-million"
+      }
+    }
+  ]
+}
