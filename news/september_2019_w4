@@ -1,7 +1,6 @@
 {
   "headlines": [
     {
-    {
       "img": "https://games-b26f.kxcdn.com/wp-content/uploads/2019/09/PlayStation.png",
       "text": "Sony launches its own PlayStation store to sell its consoles, accessories and more directly to consumer.",
       "postedOn": "09/25/2019",
@@ -64,7 +63,7 @@
         "url": "https://www.gamespot.com/articles/oculus-link-makes-the-quest-a-pc-based-rift-adding/1100-6470096/"
       }
     },
-        {
+    {
       "img": "https://static.tvtropes.org/pmwiki/pub/images/dayz_horde.jpg",
       "text": "DayZ is getting a new map - Livonia, which is based of an existing ARMA map [Contact].",
       "postedOn": "09/25/2019",
@@ -73,7 +72,7 @@
         "url": "https://www.gamezone.com/news/dayz-is-soon-getting-its-second-large-map-with-livonia/"
       }
     },
-        {
+    {
       "img": "https://images.eurogamer.net/2019/articles/2019-09-26-23-22/2019_09_Ubisoft_Da_Nang.jpg",
       "text": "Ubisoft opens new Da Nang, Vietnam studio that will focus on 'Instant Games' for social media platforms.",
       "postedOn": "09/26/2019",
