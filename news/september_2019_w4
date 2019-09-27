@@ -1,0 +1,95 @@
+{
+  "headlines": [
+    {
+    {
+      "img": "https://games-b26f.kxcdn.com/wp-content/uploads/2019/09/PlayStation.png",
+      "text": "Sony launches its own PlayStation store to sell its consoles, accessories and more directly to consumer.",
+      "postedOn": "09/25/2019",
+      "source": {
+        "name": "Gamespot",
+        "url": "https://www.gamespot.com/articles/playstation-launches-online-store-for-ps4-consoles/1100-6470085/"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/Rb24BUMaRwq9Gn2pBHGqmh-650-80.jpg",
+      "text": "United Nations is partnering with the 21 video game industry companies to 'take action in response to the climate crisis'. Sony, Microsoft, Stadia, Ubisoft and others pledged to reduce its corporate carbon footprint.",
+      "postedOn": "09/23/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/sony-microsoft-stadia-and-others-join-forces-with-united-nations-to-announce-new-climate-change-commitments-including-a-more-eco-friendly-ps5/"
+      }
+    },
+    {
+      "img": "https://imagesvc.timeincapp.com/v3/fan/image?url=https://apptrigger.com/files/2019/06/H2x1_NSwitch_TheLegendOfZeldaLinksAwakening_image1600w.jpg&",
+      "text": "New Legend of Zelda is on top of the UK's best selling chart of the week. Borderlands 3 is taking the second place, followed by Mario Kart 8.",
+      "postedOn": "09/23/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-23-the-legend-of-zelda-links-awakening-topples-borderlands-3-in-uk-charts"
+      }
+    },
+    {
+      "img": "https://1.bp.blogspot.com/-g9IiGsQqQI4/XSeJtIYfhDI/AAAAAAAAI0M/XE2lglKPK44YFXABxJQVC-PWlhiI18WvwCLcBGAs/s1600/Nintendo-Switch-Lite-Announced.jpg",
+      "text": "Nintendo Switch Lite has sold over 160,000 units during the first week in Japan. However, it is below 300,000 units forecast, which causes Nintendo Stock fall down by 4.37%.",
+      "postedOn": "09/25/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-25-switch-lite-shifts-160-000-units-during-first-week-in-japan"
+      }
+    },
+    {
+      "img": "https://www.wired.com/wp-content/uploads/2015/07/1997-Logo1.jpg",
+      "text": "Logitech has acquired livestream software company Streamlabs for ~$89 million in cash.",
+      "postedOn": "09/27/2019",
+      "source": {
+        "name": "Gameindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-27-logitech-acquires-streamlabs-for-at-least-USD89m"
+      }
+    },
+    {
+      "img": "https://thumbs.videogamer.com/r3BFwy_dKdONvLXbK7b1MWtv7wY=/640x360/smart/https://s.videogamer.com/meta/3a2e/cd4b4b98-5ec9-4452-a0c9-e911e1d87404_half-life-2-episode-2-4_1508347.jpg",
+      "text": "Latest Half-Life 2 update lets NPCs to blink.",
+      "postedOn": "09/27/2019",
+      "source": {
+        "name": "VideoGamer",
+        "url": "https://www.videogamer.com/news/half-life-2-patch-finally-lets-its-npcs-blink"
+      }
+    },
+    {
+      "img": "https://assets1.ignimgs.com/2018/09/26/oculus-quest-1537982646762_1280w.png",
+      "text": "Oculus Link - a new free software update to come out in November 2019, will allow to run Rift games on Oculus Quest.",
+      "postedOn": "09/25/2019",
+      "source": {
+        "name": "Gamespot",
+        "url": "https://www.gamespot.com/articles/oculus-link-makes-the-quest-a-pc-based-rift-adding/1100-6470096/"
+      }
+    },
+        {
+      "img": "https://static.tvtropes.org/pmwiki/pub/images/dayz_horde.jpg",
+      "text": "DayZ is getting a new map - Livonia, which is based of an existing ARMA map [Contact].",
+      "postedOn": "09/25/2019",
+      "source": {
+        "name": "Gamezone",
+        "url": "https://www.gamezone.com/news/dayz-is-soon-getting-its-second-large-map-with-livonia/"
+      }
+    },
+        {
+      "img": "https://images.eurogamer.net/2019/articles/2019-09-26-23-22/2019_09_Ubisoft_Da_Nang.jpg",
+      "text": "Ubisoft opens new Da Nang, Vietnam studio that will focus on 'Instant Games' for social media platforms.",
+      "postedOn": "09/26/2019",
+      "source": {
+        "name": "Gameindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-09-26-ubisoft-opens-new-vietnam-studio"
+      }
+    },
+    {
+      "img": "https://dontfeedthegamers.com/wp-content/uploads/2016/12/Death-Stranding.jpg",
+      "text": "Death Stranding has gone gold and will release on November 8, 2019.",
+      "postedOn": "09/26/2019",
+      "source": {
+        "name": "Gamespot",
+        "url": "https://www.gamespot.com/articles/ps4s-death-stranding-has-gone-gold/1100-6470125/"
+      }
+    }
+  ]
+}
