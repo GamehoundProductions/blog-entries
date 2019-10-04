@@ -1,0 +1,94 @@
+{
+  "headlines": [
+    {
+      "img": "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/704532515d97b7ecdee2698a0b4a10f6.png&quality=70&width=808",
+      "text": "Player data (usernames, date of birth and email) has been leaked at the EA Global Serious registration site when it got opened. The issue has been fixed immediately, but around 1,600 players were affected.",
+      "postedOn": "10/04/2019",
+      "source": {
+        "name": "Gamereactor",
+        "url": "https://www.gamereactor.eu/esports/797883/FIFA+20+Global+Series+signups+leak+player+data/"
+      }
+    },
+    {
+      "img": "https://nintendobound.files.wordpress.com/2015/10/dream_team.jpeg",
+      "text": "AlphaDream (Mario & Luigi RPG series) has filed for bunkrupcy due to low revenues, high development costs and deficits in recent years.",
+      "postedOn": "10/02/2019",
+      "source": {
+        "name": "Gematsu",
+        "url": "https://gematsu.com/2019/10/mario-luigi-rpg-series-developer-alphadream-files-for-bankruptcy"
+      }
+    },
+    {
+      "img": "https://files.khinsider.com/vgwallpaper/1024x768/2802-serious-sam-006-xcynd.jpg",
+      "text": "Croteam (Serious Same franchise) CTO Alen Ladavac leaving the company to join Google Munchen to work on Stadia.",
+      "postedOn": "10/04/2019",
+      "source": {
+        "name": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-10-04-croteam-co-founder-leaves-for-google-stadia"
+      }
+    },
+    {
+      "img": "https://www.xgadget.de/wp-content/uploads/2016/10/RDR2-Teaser.jpg",
+      "text": "Red Dead Redemtion 2 coming to PC in November, 2019 for Google Stadia and in December on Steam.",
+      "postedOn": "10/04/2019",
+      "source": {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/red-dead-redemption-2-confirmed-as-rockstars-googl/1100-6470341/"
+      }
+    },
+    {
+      "img": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/09/30/df359f61/shawn.jpg",
+      "text": "Shawn Layden, chairman of Sony Interactive Entertainment, is leaving the company.",
+      "postedOn": "09/30/2019",
+      "source": {
+        "name": "Gameinformer",
+        "url": "https://www.gameinformer.com/2019/09/30/shawn-layden-departs-sony-interactive-entertainment"
+      }
+    },
+    {
+      "img": "https://duckduckgo.com/?q=Hollow+Knight&t=brave&iax=images&ia=images&iai=https%3A%2F%2Fcdn02.nintendo-europe.com%2Fmedia%2Fimages%2F11_square_images%2Fgames_18%2Fwii_u_download_software_3%2FSQ_WiiUDS_HollowKnight.jpg",
+      "text": "National Film and Sound Archive of Australia has announced plans to collect and preserve video games made by region's developers.",
+      "postedOn": "10/01/2019",
+      "source": {
+        "name": "Gamasutra",
+        "url": "https://www.gamasutra.com/view/news/351463/National_Film_and_Sound_Archive_of_Australia_to_begin_preserving_video_games.php"
+      }
+    },
+    {
+      "img": "https://www.autostraddle.com/wp-content/uploads/2017/02/shutterstock_432286009.jpg",
+      "text": "Court upholds net neutrality repeal, but lets states pass their own.",
+      "postedOn": "10/01/2019",
+      "source": {
+        "name": "Gamesindustry.biz",
+        "url": "https://www.gamesindustry.biz/articles/2019-10-01-court-upholds-net-neutrality-repeal-but-lets-states-pass-their-own"
+      }
+    },
+    {
+      "img": "https://images.gamewatcherstatic.com/image/file/6/37/103006/jEe3Fx4.jpg",
+      "text": "Valve ads X-Ray Scanner to reveal the item that's inside any of the CS:GO crates, but only for the players in France.",
+      "postedOn": "10/04/2019",
+      "source": {
+        "name": "GameWatcher",
+        "url": "https://www.gamewatcher.com/news/cs-go-x-ray-crate-scanner-france"
+      }
+    },
+    {
+      "img": "https://www.screengeek.net/wp-content/uploads/2019/08/spider-man-tom-holland.jpg",
+      "text": "Tom Holland's Spider-Man confirmed to return to MCU as Disney and Sony agreed to a new deal. Disney will keep its merchandising rights and keeps about 25% profits from the film.",
+      "postedOn": "09/27/2019",
+      "source": {
+        "name": "Gameinformer",
+        "url": "https://www.gameinformer.com/gamer-culture/2019/09/27/spider-man-is-returning-to-the-mcu-as-disney-and-sony-strike-a-deal"
+      }
+    },
+    {
+      "img": "https://cdn.mos.cms.futurecdn.net/45DGcLeHjmYRhyWJ4ieMcH-650-80.jpg",
+      "text": "Minecraft board game releases November 15, 2019. Its a 2-4 players with a time play of 30-60 minutes where you explore, battle the mobs and mine resources to build structure.",
+      "postedOn": "10/1/2019",
+      "source": {
+        "name": "Gamesradar",
+        "url": "https://www.gamesradar.com/minecraft-board-game/"
+      }
+    }
+  ]
+}
