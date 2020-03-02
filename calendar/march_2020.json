@@ -1,0 +1,35 @@
+[
+  {
+    "name" : "Doom Eternal",
+    "developer" : "id Software",
+    "publisher" : "Bethesda Softworks",
+    "release_date" : "03/20/2020",
+    "cover_url" : "https://en.wikipedia.org/wiki/Doom_Eternal#/media/File:Cover_Art_of_Doom_Eternal.png",
+    "screenshots" : [],
+    "platforms": [ "Steam", "PS5", "Xbox One", "Stadia", "Nintendo Switch"],
+    "genre" : [ "fps" ],
+    "trailer" : "https://www.youtube.com/watch?v=_J2YcaVqjCQ"
+  },  
+  {
+    "name" : "Half-Life: Alyx",
+    "developer" : "Valve",
+    "publisher" : "Valve",
+    "release_date" : "03/23/2020",
+    "cover_url" : "https://en.wikipedia.org/wiki/File:Half-Life_Alyx_Cover_Art.jpg",
+    "screenshots" : [],
+    "platforms": ["VR", "Steam"],
+    "genre" : ["FPS"],
+    "trailer" : "https://www.youtube.com/watch?v=O2W0N3uKXmo"
+  },  
+  {
+    "name" : "Persona 5 Royal",
+    "developer" : "P-Studio",
+    "publisher" : "Atlus",
+    "release_date" : "03/31/2020",
+    "cover_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Persona_5_cover_art.jpg/220px-Persona_5_cover_art.jpg",
+    "screenshots" : [],
+    "platforms": ["PS4"],
+    "genre" : ["JRPG"],
+    "trailer" : "https://www.youtube.com/watch?v=SS4uq6-bhT4"
+  }
+]
