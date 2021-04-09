@@ -7,7 +7,7 @@ The GameDiscoverCo Plus paid newsletter tier includes exclusive weekly data-driv
 [original source. This is just for testing.](https://newsletter.gamediscover.co/about?utm_source=menu-dropdown)
 
 <code v-highlight class="javascript">
-  // using syntex highlighter library
-  // https://github.com/Llang8/nuxt-highlightjs
+  // using syntex highlighter library<br />
+  // https://github.com/Llang8/nuxt-highlightjs<br />
   console.log('Hello World')
 </code>
