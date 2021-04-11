@@ -28,7 +28,7 @@ The last one - "Parse Content" - is the critical piece here that drove the direc
 [GitHub Markdown](https://guides.github.com/features/mastering-markdown/) is a direction I started looking into right away. It is exactly what I need: free, works as Editor tool (has Preview capability when you edit a file on the repo page), and is a storage.
 And, is easy to retrieve (no need for extra api setup and whatnot):
 
-``` javascript
+``` typescript
 // IN THE VUEJS .vue file
 mounted(): void {
   const url = 'https://raw.githubusercontent.com/PATH/helloworld.md'
@@ -47,3 +47,30 @@ mounted(): void {
 Cool. Almost done. Now, it would still return a plane text - but with all the markdown formatting. So, on to searching for a VueJs library to parse Markdown.
 
 ### Implementation
+
+[vue-markdown](https://github.com/miaolz123/vue-markdown) is my library of choice. Does everything I needed and is easy to use.
+
+``` xml
+<template>
+  <article class='content'>
+    <vue-markdown :source='articleLoaded' :html='true' />
+</template>
+
+<script lang='ts'>
+import VueMarkdown from 'vue-markdown'
+
+@Component({
+  components: {
+    VueMarkdown
+  }
+})
+export default class Blog extends Vue { 
+ ... 
+}
+</script>
+```
+
+##### NOTE: articleLoaded is set from the mounted() code example above
+
+On top of that, it has a very useful <a href='https://miaolz123.github.io/vue-markdown/' target='_blank'>live edit with preview demo</a> that I've used to write This post. Will probably incorporate it to this website as well later on to make Saving, Deleting and Publishing new posts a bit easier.
+
