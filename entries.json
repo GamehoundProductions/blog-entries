@@ -3,12 +3,12 @@
       {
          "id":"build-it-yourself-blog-vuejs.md",
          "uuid":null,
-         "title":"How did I build a simple custom blog page on a budget?",
+         "title":"Building a custom blog with VueJs/NuxtJs on a budget quickly",
          "post_date":"04/12/2021",
          "reactions":{
             "heart":0
          },
-         "subtitle":"Spoiler: Github + Vue-Mardown is what it takes... kind of.",
+         "subtitle":"Github is a storage, an editor and executioner too",
          "cover_image":"",
          "description":null,
          "publishedBylines":[
