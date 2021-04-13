@@ -22,6 +22,7 @@
         "tags": [
           "vuejs", "nuxtjs", "vue", "nuxt", "webdev"
         ],
+         "author": "Zach Volchak",
          "hidden":false
       }
    ]
