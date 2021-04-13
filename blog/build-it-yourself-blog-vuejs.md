@@ -1,7 +1,3 @@
-## How to build your own blog with VueJs/NuxtJs
-
-### Premise
-
 I've been thinking about creating my own blog for some time now. Didn't want to use existing platforms like Thumblr or Wordpress, mostly because I wanted to build it myself, primary, for educational purposes. Secondary, I wanted a bit more [deeper] control over the visuals of my domain. And third - price - looking for a free and easy integrate solution. So, quickly started searching for ways to create/integrate a blogging system into an existing website or use some VueJs existing libraries. 
 
 By the way, this website is build with NuxtJS. Not a real concern compared to VueJS in the context of this topic, except for the Server-Side-Rendering capabilities that NuxtJS is enabling.
