@@ -47,7 +47,10 @@
         "tags": [
           "vuejs", "nuxtjs", "vue", "nuxt", "webdev"
         ],
-         "author": "Zach Volchak",
+         "author": {
+            "name": "Zach Volchak",
+            "twitter": "https://twitter.com/gamehoundgames",
+         },
          "hidden":false
       },
             {
