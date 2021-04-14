@@ -40,7 +40,7 @@ mounted(): void {
 } //mounted
 ```
 
-Cool. Almost done. Now, it would still return a plane text - but with all the markdown formatting. So, on to searching for a VueJs library to parse Markdown.
+Now, it would still return a plane text - but with all the markdown formatting. So, on to Markdown parsing process.
 
 ### Implementation
 
@@ -68,5 +68,50 @@ export default class Blog extends Vue {
 
 ##### NOTE: articleLoaded is set from the mounted() code example above
 
-On top of that, it has a very useful <a href='https://miaolz123.github.io/vue-markdown/' target='_blank'>live edit with preview demo</a> that I've used to write This post. Will probably incorporate it to this website as well later on to make Saving, Deleting and Publishing new posts a bit easier.
+Additionally, it has a very useful <a href='https://miaolz123.github.io/vue-markdown/' target='_blank'>live edit with preview demo</a> that I've used to write This post. Will probably incorporate it to this website as well later on to make Saving, Deleting and Publishing new posts a bit easier.
 
+Now, how would you get a list of all the available blog postings? The idea of using Github as a DB storage solution here is for it to store required data in a JSON format, as if it was a response from a real backend server scrapping real db data. Thus, I've created a JSON file that would have the fields that I need to render a list post previews. I've went on a couple existing blog websites to see how they render list of posts; looked into their network call to get an idea for the JSON fields they get from their db and that is what I've come up with for now: 
+
+```
+//https://github.com/[ORG]/[PROJECT-NAME]/blob/[BRANCH]/entries.json
+{
+   "entries":[
+      {
+         "id":"THE-NAME-OF-THE-FILE",
+         "uuid":null,
+         "title":"Some title for the blog post.",
+         "post_date":"04/12/2021",
+         "reactions":{
+            "heart":0
+         },
+         "subtitle":"Some subtitle",
+         "cover_image":"",
+         "description":null,
+        "tags": [
+          "vuejs", "nuxtjs", "vue", "nuxt", "webdev"
+        ],
+         "author": {
+            "name": "Zach Volchak",
+            "twitter": "https://twitter.com/gamehoundgames"
+         },
+         "hidden":false
+      }
+   ]
+}
+
+```
+
+In this setup, I've used `id` as a name of the blog post file that is stored on my Github's project. Some other fields like `uuid` or `tags` I might not use right away, but they could be useful later on - so added them just in case.
+
+Making an `http` request to the `raw` path of this file, will return a JSON object in the response:
+
+``` typescript
+    axios.get(url).then((resp: any) => {
+      const entries = get(resp, 'data.entries', []) // lodash's "get" library
+      // ...
+    }).catch((error: Error) => {
+      // ...
+    })
+```
+
+I then save `entries` into the Vuex store to get them later in the component. 
