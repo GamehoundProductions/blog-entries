@@ -25,9 +25,8 @@ The last one - "Parse Content" - is the critical piece here that drove the direc
 And, is easy to retrieve (no need for extra api setup and whatnot):
 
 ``` typescript
-// IN THE VUEJS .vue file
 mounted(): void {
-  const url = 'https://raw.githubusercontent.com/PATH/helloworld.md'
+  const url = `https://raw.githubusercontent.com/PATH/file-name-on-github.md`
 
   this.$axios.get(url).then((resp: any) => {
     // Set local variable to render in the template.
@@ -40,7 +39,7 @@ mounted(): void {
 } //mounted
 ```
 
-Now, it would still return a plane text - but with all the markdown formatting. So, on to Markdown parsing process.
+Now, it would still return a plane text - but with all the markdown formatting. So, on to Markdown finding a VueJs library that would parse a raw markdown string into a formatted HTML element...
 
 ### Implementation
 
@@ -70,7 +69,9 @@ export default class Blog extends Vue {
 
 Additionally, it has a very useful <a href='https://miaolz123.github.io/vue-markdown/' target='_blank'>live edit with preview demo</a> that I've used to write This post. Will probably incorporate it to this website as well later on to make Saving, Deleting and Publishing new posts a bit easier.
 
-Now, how would you get a list of all the available blog postings? The idea of using Github as a DB storage solution here is for it to store required data in a JSON format, as if it was a response from a real backend server scrapping real db data. Thus, I've created a JSON file that would have the fields that I need to render a list post previews. I've went on a couple existing blog websites to see how they render list of posts; looked into their network call to get an idea for the JSON fields they get from their db and that is what I've come up with for now: 
+**Now, how would you get a list of all the available blog postings?** The idea of using Github as a DB storage solution here is for it to store required data in a JSON format, as if it was a response from a real backend server that has scrapped real db data into a final resut. Thus, for the frontend, it will be as easy as changing the request url to a backend server, if/when I decide to build one and move away from this architecture.
+
+I've went on a couple existing blog websites to see how they render list of posts; looked into their network call to get an idea for the JSON fields they get from their db. Eventually, created a `entrie.json` in the root of my project with the following content:
 
 ```
 //https://github.com/[ORG]/[PROJECT-NAME]/blob/[BRANCH]/entries.json
@@ -101,17 +102,50 @@ Now, how would you get a list of all the available blog postings? The idea of us
 
 ```
 
-In this setup, I've used `id` as a name of the blog post file that is stored on my Github's project. Some other fields like `uuid` or `tags` I might not use right away, but they could be useful later on - so added them just in case.
+id` here is a name of the blog post file that is stored on <a href='https://github.com/GamehoundProductions/blog-entries' target='_blank'>my Github's project</a>.
 
-Making an `http` request to the `raw` path of this file, will return a JSON object in the response:
+Some other fields like `uuid` or `tags` I might not use right away, but they could be useful later on - so added them just in case.
 
-``` prism typescript
+Making an `http` request to the `raw` path of this file, will return its content as a JSON object in the response:
+
+``` typescript
     axios.get(url).then((resp: any) => {
-      const entries = get(resp, 'data.entries', []) // lodash's "get" library
+      const entries = resp.data.entries
       // ...
     }).catch((error: Error) => {
       // ...
     })
 ```
 
-I then save `entries` into the Vuex store to get them later in the component. 
+I then save `entries` into the Vuex store to get them later in the component. And with that, I now have enough information at hand to build a list of blog posts, each component of which would require the `id` property. With that, I can construct a url pointing to the right raw file in the Github project:
+
+```
+<template>
+  <article class="media">
+    <div 
+      class="column is-3-desktop is-full-mobile" 
+      @click="selectArticle()"  <--- Critical Piece. Clicking on this div will http request the right blog post.
+    >
+      .... MORE HTML STUFF HERE ... 
+    </div>
+</article>
+</template>
+
+<script lang='ts'>
+  @Prop({ type: String, default: 'latest' }) readonly id!: string
+
+  selectArticle(): void {
+     const url = `https://raw.githubusercontent.com/PATH/${this.id}`
+
+     this.$axios.get(url).then((resp: any) => {
+      // Do whatever makes sense with the resp.data here:
+      // set it to a local variable for render, pass it to the Vuex
+      // store or anything else.
+     }).catch((error: Error) => {
+       ...
+     })
+  }
+</script>
+```
+
+
