@@ -105,7 +105,7 @@ In this setup, I've used `id` as a name of the blog post file that is stored on 
 
 Making an `http` request to the `raw` path of this file, will return a JSON object in the response:
 
-``` typescript
+``` prism typescript
     axios.get(url).then((resp: any) => {
       const entries = get(resp, 'data.entries', []) // lodash's "get" library
       // ...
