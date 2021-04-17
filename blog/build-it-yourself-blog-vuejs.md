@@ -39,7 +39,7 @@ mounted(): void {
 ##### Note the the raw.githubusercontent.com url instead of a regular github.com one
 This would return a plane text - but with all the markdown syntax. So, time to find some Markdown Parsing VueJs library.
 
-### Dealing with Markdown
+### Dealing with Markdown: parse and render
 
 [vue-markdown](https://github.com/miaolz123/vue-markdown) is my library of choice. Does everything I needed and is [*subjectively*] easy to use.
 
@@ -129,6 +129,7 @@ getBlogEntries(): void {
 I then save `entries` into the Vuex store to get them later in the component. And now I have enough data at hand to build a list of blog posts, each component of which would require the `id` property, that must be used to construct a url string pointing to the right [raw] file in the Github project:
 
 ```javascript
+// Preview Blog Post .vue component
 <template>
   <article class="media">
     <div 
@@ -143,6 +144,8 @@ I then save `entries` into the Vuex store to get them later in the component. An
 
 ```typescript
 <script lang='ts'>
+  // It needs to have an id to construct the right url to that blog
+  // post file
   @Prop({ type: String, default: 'latest' }) readonly id!: string
 
   selectArticle(): void {
