@@ -119,7 +119,7 @@ Making an `http` request to the `raw` path of this file, will return its content
 
 I then save `entries` into the Vuex store to get them later in the component. And with that, I now have enough information at hand to build a list of blog posts, each component of which would require the `id` property. With that, I can construct a url pointing to the right raw file in the Github project, parse it and render on the page:
 
-```jsx
+```xml
 <template>
   <article class="media">
     <div 
