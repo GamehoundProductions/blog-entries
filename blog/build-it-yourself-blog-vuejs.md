@@ -36,7 +36,7 @@ mounted(): void {
     console.error(error.message)
   })
 
-} //mounted
+}
 ```
 
 Now, it would still return a plane text - but with all the markdown formatting. So, on to Markdown finding a VueJs library that would parse a raw markdown string into a formatted HTML element...
@@ -50,7 +50,9 @@ Now, it would still return a plane text - but with all the markdown formatting. 
   <article class='content'>
     <vue-markdown :source='articleLoaded' :html='true' />
 </template>
+```
 
+```typescript
 <script lang='ts'>
 import VueMarkdown from 'vue-markdown'
 
@@ -109,12 +111,14 @@ Some other fields like `uuid` or `tags` I might not use right away, but they cou
 Making an `http` request to the `raw` path of this file, will return its content as a JSON object in the response:
 
 ``` typescript
-    axios.get(url).then((resp: any) => {
-      const entries = resp.data.entries
-      // ...
-    }).catch((error: Error) => {
-      // ...
-    })
+getBlogEntries(): void {
+ axios.get(url).then((resp: any) => {
+   const entries = resp.data.entries
+   // ...
+ }).catch((error: Error) => {
+   // ...
+ })
+}
 ```
 
 I then save `entries` into the Vuex store to get them later in the component. And with that, I now have enough information at hand to build a list of blog posts, each component of which would require the `id` property. With that, I can construct a url pointing to the right raw file in the Github project, parse it and render on the page:
@@ -128,9 +132,11 @@ I then save `entries` into the Vuex store to get them later in the component. An
     >
       .... MORE HTML STUFF HERE ... 
     </div>
-</article>
+  </article>
 </template>
+```
 
+```typescript
 <script lang='ts'>
   @Prop({ type: String, default: 'latest' }) readonly id!: string
 
