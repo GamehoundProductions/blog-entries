@@ -45,7 +45,7 @@ Now, it would still return a plane text - but with all the markdown formatting. 
 
 [vue-markdown](https://github.com/miaolz123/vue-markdown) is my library of choice. Does everything I needed and is easy to use.
 
-```tsx
+```xml
 <template>
   <article class='content'>
     <vue-markdown :source='articleLoaded' :html='true' />
