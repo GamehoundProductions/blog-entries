@@ -110,7 +110,7 @@ Some other fields like `uuid` or `tags` I might not use right away, but they cou
 
 Making an `http` request to the `raw` path of this file, will return its content as a JSON object in the response:
 
-``` typescript
+```typescript
 getBlogEntries(): void {
  axios.get(url).then((resp: any) => {
    const entries = resp.data.entries
