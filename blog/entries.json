@@ -27,7 +27,8 @@
             "name": "Zach Volchak",
             "twitter": "https://twitter.com/gamehoundgames"
          },
-         "hidden":false
+         "hidden":false,
+         "category", ['FrontEnd Development']
       }
    ]
 }
