@@ -85,7 +85,7 @@ I've went on a couple existing blog websites to see how they render list of post
          "title":"Some title for the blog post.",
          "post_date":"04/12/2021",
          "reactions":{
-            "heart":0
+            "heart": "0"
          },
          "subtitle":"Some subtitle",
          "cover_image":"",
@@ -123,7 +123,7 @@ getBlogEntries(): void {
 
 I then save `entries` into the Vuex store to get them later in the component. And with that, I now have enough information at hand to build a list of blog posts, each component of which would require the `id` property. With that, I can construct a url pointing to the right raw file in the Github project, parse it and render on the page:
 
-```markup
+```javascript
 <template>
   <article class="media">
     <div 
