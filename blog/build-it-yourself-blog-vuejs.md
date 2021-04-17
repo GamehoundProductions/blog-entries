@@ -1,3 +1,4 @@
+
 I've been thinking about creating my own blog for some time now. Didn't want to use existing platforms like Thumblr or Wordpress, mostly because I wanted to build it myself, primary, for educational purposes. Secondary, I wanted a bit more [deeper] control over the visuals of my domain. And third - price - looking for a free and easy integrate solution. So, quickly started searching for ways to create/integrate a blogging system into an existing website or use some VueJs existing libraries. 
 
 By the way, this website is build with NuxtJS. Not a real concern compared to VueJS in the context of this topic, except for the Server-Side-Rendering capabilities that NuxtJS is enabling.
@@ -9,20 +10,17 @@ Though, started to consider Wordpress API, thinking I would create a free accoun
 But, it gave me an idea of how this works and how I can build it myself relatively fast.
 
  
-### What is the problem?
+### Concept
 
-This is a question I ask myself every time before the research and when recognizing I'm getting too deep or already deep in the rabbit hole.
+What do I think I need to get the blog functionality going and embedded into my existing website:
 
-So, what do I really need to get the blog functionality going on the website:
+ 1) Editor mechanism to creating and editing posts; previewing and adding formats (text decoration, images, colors, links, and etc).
+ 2) Database to store raw string Blog Entries and a List of available Posts (for preview).
+ 3) Retrieve and Parse raw blog entry on the client side.
 
- 1) Editor tool for creating and editing posts; previewing and adding formats (text decoration, images, colors, links, and etc).
- 2) Database to store Blog Entries, possibly, in plane, but formatted, text.
- 3) Retrieve and Parse [formatted] Content.
+Storage is easy. Plenty of options like [Firestore](https://firebase.google.com/docs/firestore/quickstart), [AWS Storage](https://aws.amazon.com/products/storage/) if you can afford/handle it, or GitHub - which I ended up using.
 
-The last one - "Parse Content" - is the critical piece here that drove the direction for editor tool. Because storage is easy. Plenty of options like [Firestore](https://firebase.google.com/docs/firestore/quickstart), [AWS Storage](https://aws.amazon.com/products/storage/) if you are feeling fancy, or GitHub. I've chose GitHub for now.
-
-[GitHub Markdown](https://guides.github.com/features/mastering-markdown/) is a direction I started looking into right away. It is exactly what I need: free, works as Editor tool (has Preview capability when you edit a file on the repo page), and is a storage.
-And, is easy to retrieve (no need for extra api setup and whatnot):
+[GitHub Markdown](https://guides.github.com/features/mastering-markdown/) is a direction I started looking into right away for the Editing mechanism. Easy to use and can be stored [somewhere] as a raw string, that could be parsed on the client side. And since I might use Github as an editing tool, why not use it as a storage as well. Create a file on a new branch, edit and preview it as you go and, when ready, merge it to `master` branch, where client will then will be pulling from to render on the page:
 
 ```javascript
 mounted(): void {
@@ -31,24 +29,27 @@ mounted(): void {
   this.$axios.get(url).then((resp: any) => {
     // Set local variable to render in the template.
     // More on that later
-    this.articleLoaded = resp.data
+    this.articleContent = resp.data
   }).catch((error: Error) => {
     console.error(error.message)
   })
-
 }
 ```
 
-Now, it would still return a plane text - but with all the markdown formatting. So, on to Markdown finding a VueJs library that would parse a raw markdown string into a formatted HTML element...
+##### Note the the raw.githubusercontent.com url instead of a regular github.com one
+This would return a plane text - but with all the markdown syntax. So, time to find some Markdown Parsing VueJs library.
 
-### Implementation
+### Dealing with Markdown
 
-[vue-markdown](https://github.com/miaolz123/vue-markdown) is my library of choice. Does everything I needed and is easy to use.
+[vue-markdown](https://github.com/miaolz123/vue-markdown) is my library of choice. Does everything I needed and is [*subjectively*] easy to use.
 
 ```html
 <template>
   <article class='content'>
-    <vue-markdown :source='articleLoaded' :html='true' />
+    <vue-markdown 
+      :source='articleContent' 
+      :html='true'
+    />
 </template>
 ```
 
@@ -61,19 +62,23 @@ import VueMarkdown from 'vue-markdown'
     VueMarkdown
   }
 })
-export default class Blog extends Vue { 
- ... 
+export default class Blog extends Vue {
+ articleContent = '' 
+ // make a http request to the blog post file
+ // stored on Github. Example using axios above.
 }
 </script>
 ```
 
-##### NOTE: articleLoaded is set from the mounted() code example above
+Additionally, it has a handy <a href='https://miaolz123.github.io/vue-markdown/' target='_blank'>live edit with preview demo</a> that I've used to write This post. But, technically, any markdown online editor would do.
 
-Additionally, it has a very useful <a href='https://miaolz123.github.io/vue-markdown/' target='_blank'>live edit with preview demo</a> that I've used to write This post. Will probably incorporate it to this website as well later on to make Saving, Deleting and Publishing new posts a bit easier.
+### Github as a backend emulator - getting list of blog posts
 
-**Now, how would you get a list of all the available blog postings?** The idea of using Github as a DB storage solution here is for it to store required data in a JSON format, as if it was a response from a real backend server that has scrapped real db data into a final resut. Thus, for the frontend, it will be as easy as changing the request url to a backend server, if/when I decide to build one and move away from this architecture.
+In addition to Github being a storage is for it to act as a backend emulator. I could create a `.json` file that would have all the fields and structure of the response I would get from a backend endpoint processing DB queries.
 
-I've went on a couple existing blog websites to see how they render list of posts; looked into their network call to get an idea for the JSON fields they get from their db. Eventually, created a `entrie.json` in the root of my project with the following content:
+With that setup it would be as easy to just change the request url to a real backend server in the frontend code, if/when I decide to build one and move away from this architecture. For example, my backend endpoint will probably be scraping the Firestore db and constructing the same `JSON` response I would create in a Github's  .json file containing the list of available blog posts and its metadata.
+
+I've went on a couple existing blog websites to see how they render list of posts; looked into their network calls to get an idea for the `JSON` fields they get from their db. Eventually, created a `entrie.json` in the root of my project with the following content:
 
 ```json
 //https://github.com/[ORG]/[PROJECT-NAME]/blob/[BRANCH]/entries.json
@@ -153,5 +158,3 @@ I then save `entries` into the Vuex store to get them later in the component. An
   }
 </script>
 ```
-
-
