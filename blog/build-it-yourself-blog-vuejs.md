@@ -8,7 +8,7 @@ Though, started to consider Wordpress API, thinking I would create a free accoun
 
 But, it gave me an idea of how this works and how I can build it myself relatively fast.
 
-
+ 
 ### What is the problem?
 
 This is a question I ask myself every time before the research and when recognizing I'm getting too deep or already deep in the rabbit hole.
@@ -104,7 +104,7 @@ I've went on a couple existing blog websites to see how they render list of post
 
 ```
 
-id` here is a name of the blog post file that is stored on <a href='https://github.com/GamehoundProductions/blog-entries' target='_blank'>my Github's project</a>.
+`id` - is a name of the blog post file that is stored on <a href='https://github.com/GamehoundProductions/blog-entries' target='_blank'>my Github's project</a>.
 
 Some other fields like `uuid` or `tags` I might not use right away, but they could be useful later on - so added them just in case.
 
@@ -123,7 +123,7 @@ getBlogEntries(): void {
 
 I then save `entries` into the Vuex store to get them later in the component. And with that, I now have enough information at hand to build a list of blog posts, each component of which would require the `id` property. With that, I can construct a url pointing to the right raw file in the Github project, parse it and render on the page:
 
-```html
+```markup
 <template>
   <article class="media">
     <div 
