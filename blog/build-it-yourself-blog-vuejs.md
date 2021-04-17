@@ -78,7 +78,7 @@ In addition to Github being a storage is for it to act as a backend emulator. I 
 
 With that setup it would be as easy to just change the request url to a real backend server in the frontend code, if/when I decide to build one and move away from this architecture. For example, my backend endpoint will probably be scraping the Firestore db and constructing the same `JSON` response I would create in a Github's  .json file containing the list of available blog posts and its metadata.
 
-I've went on a couple existing blog websites to see how they render list of posts; looked into their network calls to get an idea for the `JSON` fields they get from their db. Eventually, created a `entrie.json` in the root of my project with the following content:
+I've went on a couple existing blog websites to see how they render list of posts; looked into their network calls to get an idea for the `JSON` fields they get from their db. Eventually, created a [entrie.json](https://github.com/GamehoundProductions/blog-entries/blob/master/entries.json) in the project with the following content:
 
 ```json
 //https://github.com/[ORG]/[PROJECT-NAME]/blob/[BRANCH]/entries.json
@@ -110,10 +110,10 @@ I've went on a couple existing blog websites to see how they render list of post
 ```
 
 `id` - is a name of the blog post file that is stored on <a href='https://github.com/GamehoundProductions/blog-entries' target='_blank'>my Github's project</a>.
-
+Fields like `title`, `subtitle`, `post_date`, `tags` are pieces of metadata to be used on the page for the post preview or search queries. 
 Some other fields like `uuid` or `tags` I might not use right away, but they could be useful later on - so added them just in case.
 
-Making an `http` request to the `raw` path of this file, will return its content as a JSON object in the response:
+Making an `http` request to the `raw.githubusercontent.com/[...]` path of this file, will return its content as a `JSON` object in the response:
 
 ```typescript
 getBlogEntries(): void {
@@ -126,16 +126,16 @@ getBlogEntries(): void {
 }
 ```
 
-I then save `entries` into the Vuex store to get them later in the component. And with that, I now have enough information at hand to build a list of blog posts, each component of which would require the `id` property. With that, I can construct a url pointing to the right raw file in the Github project, parse it and render on the page:
+I then save `entries` into the Vuex store to get them later in the component. And now I have enough data at hand to build a list of blog posts, each component of which would require the `id` property, that must be used to construct a url string pointing to the right [raw] file in the Github project:
 
 ```javascript
 <template>
   <article class="media">
     <div 
       class="column is-3-desktop is-full-mobile" 
-      @click="selectArticle()"  <--- Critical Piece. Clicking on this div will http request the right blog post.
+      @click="selectArticle()"
     >
-      .... MORE HTML STUFF HERE ... 
+      <!-- MORE HTML STUFF HERE -->
     </div>
   </article>
 </template>
