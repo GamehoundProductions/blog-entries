@@ -2,23 +2,16 @@
   "entries": [
     {
       "id": "build-it-yourself-blog-vuejs.md",
+      "custom_url": null,
       "uuid": null,
       "title": "Building a custom blog with VueJs/NuxtJs on a budget quickly",
       "post_date": "04/12/2021",
       "reactions": {
         "heart": "0"
       },
-      "subtitle": "Github is a storage, an editor and executioner too",
+      "subtitle": "Github as a storage, an editor and executioner too",
       "cover_image": "",
       "description": null,
-      "publishedBylines": [
-        {
-          "id": "1",
-          "name": "Zach Volchak",
-          "photo_url": null,
-          "bio": null
-        }
-      ],
       "tags": [
         "vuejs",
         "nuxtjs",
