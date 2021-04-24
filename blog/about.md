@@ -3,7 +3,7 @@ Hi! My name is Zach and I am a Software Engineer with a great love for Video Gam
 
 Here, you can find my [Blog](https://gamehoundgames.com/blog), where I write about Video Games, Software Engineering and just some random stuff.
 
-**Subscribe to my Newsletter to get the newest post updates straight to Your virtual door!** 
+**Subscribe to my Newsletter to get the newest post straight to Your virtual door!** 
 
 [Weekly News Digest](https://gamehoundgames.com/news) is where you can find [subjectively] most relevant and interesting Video Game stories of the week, that I cherry-pick myself. At some point, I just got tired of all that noise provoking click-bait headlines a lot of modern news website do. So I've decided it to clean it up for people similar to myself in that regard. Though, I still have to go through the noise, but at least You don't have to.
 
