@@ -6,4 +6,4 @@ Tune in for [Weekly News](https://gamehoundgames.com/news) digest, where I cherr
 
 Also, check out the [Calendar](https://gamehoundgames.com/calendar) to discover current, upcoming or past game releases throughout the years. 
 
-And, of course, Subscribe to my Newsletter and get the newest [Blog](https://gamehoundgames.com/blog) posts straight to Your virtual door!
+And, of course, Subscribe to my Newsletter and get the newest [Blog](https://gamehoundgames.com/blog) posts about Video Games, Software Engineering and who-knows-what-else straight to Your virtual door!
