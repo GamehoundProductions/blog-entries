@@ -2,7 +2,7 @@
 {
   "entries": [
     {
-      "id": "build-it-yourself-blog-vuejs.md",
+      "id": "building-a-simple-blog-engine.md",
       "custom_url": null,
       "uuid": null,
       "title": "Building a custom blog with VueJs/NuxtJs on a budget quickly",
