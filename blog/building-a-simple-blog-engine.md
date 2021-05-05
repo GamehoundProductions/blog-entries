@@ -1,3 +1,4 @@
+
 I've been thinking about creating a simple blog engine for my website for some time now. Didn't want to use existing platforms like Wordpress, because I would not have enough "behind the scene" control over it (including the visuals).  Plus, I just like to build things every now and then for no justifiably reason.
 
 There are couple of options for the backend api or blogging frameworks available today: [Gatsby](https://www.gatsbyjs.com/), [ButterCMS](https://buttercms.com/), [Wordpress](https://wordpress.com/) (and [Wordpress API](https://developer.wordpress.org/rest-api/) in particular). This all seemed interesting, but they have monthly fees, that I'm not currently willing to pay for.
@@ -169,7 +170,7 @@ I then save `entries` into the Vuex store to get them later in the component. An
 
 Clicking on the article adds a query id property to the url `gamehoundgames.com/blog?id=ARTICLE` and the http request is made to get the article data to be rendered on the page, while hiding the list of available blogs.
 
-```
+```typescript
 @Watch('$route', { immediate: true })
 onUrlChange(newVal: any): void {
   if (newVal.query.id)
@@ -189,3 +190,11 @@ async getArticle(): Promise<void> {
 ```
 
 Since I'm not doing Server Side Rendering, the dynamic routes are not available (e.g. blog/article-id-1, blog/article-id-2...). Thus, I have to set the query parameter instead and listen to the route change to decide when to trigger that http request.
+
+The `axios` requests are cached, so that should keep the [github request limits](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting) in the reasonable range.
+
+### The End
+
+And that is the high level overview how I made This blog. The actual implementation of the whole thing is a little bit more complicated and it gave me a few headaches here and there, mostly around CSS and some Javascript shenanigans, but it was still a fun little project to work on.
+
+Check out the [code example here](https://github.com/GamehoundProductions/blogging-engine-example).   
