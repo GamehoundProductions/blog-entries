@@ -19,7 +19,7 @@
         "nuxt",
         "webdev",
         "blog", "json", "markdown", "github", "backend", "http", "request", "wordpress",
-        "javascript", "typescript",
+        "javascript", "typescript"
       ],
       "author": {
         "name": "Zach Volchak",
