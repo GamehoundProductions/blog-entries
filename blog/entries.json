@@ -1,4 +1,35 @@
 {
   "entries": [
+    {
+      "id": "building-a-simple-blog-engine.md",
+      "custom_url": null,
+      "uuid": null,
+      "title": "How to built a simple blog engine with Vuejs/Nuxtjs and Github.",
+      "post_date": "04/12/2021",
+      "reactions": {
+        "heart": "0"
+      },
+      "subtitle": "A high-level conceptual overview.",
+      "cover_image": "https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+      "description": null,
+      "tags": [
+        "vuejs",
+        "nuxtjs",
+        "vue",
+        "nuxt",
+        "webdev",
+        "how to", "built", "blog engine",
+        "blog", "json", "markdown", "github", "backend", "http", "request", "wordpress",
+        "javascript", "typescript"
+      ],
+      "author": {
+        "name": "Zach Volchak",
+        "twitter": "https://twitter.com/gamehoundgames"
+      },
+      "hidden": false,
+      "category": [
+        "FrontEnd Development"
+      ]
+    }
   ]
 }
